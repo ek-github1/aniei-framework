@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/Layout.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/Exception.php
+END
+Legend.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/Legend.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/Title.php
+END
+DataSeries.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/DataSeries.php
+END
+DataSeriesValues.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/DataSeriesValues.php
+END
+PlotArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Chart/PlotArea.php
+END

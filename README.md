@@ -1,2 +1,1 @@
-# aniei-framework
-framework aniei
+framework

@@ -1,0 +1,1 @@
+<h3><?php echo Functions::__Translate("Sorry you dont have persmission in this area"); ?></h3><p><a href="<?php echo TO_ROOT ?>/index.php"><?php echo Functions::__Translate("Back"); ?></a></p>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/Excel2007.php
+END
+PDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/PDF.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/CSV.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/Exception.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/Abstract.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/HTML.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/Excel5.php
+END
+IWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/spiderframe/!svn/ver/1/vendors/phpexcel/Classes/PHPExcel/Writer/IWriter.php
+END
