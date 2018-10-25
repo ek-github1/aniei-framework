@@ -1,2 +1,2 @@
-# aniei-freamwork
+# aniei-framework
 framework aniei
